@@ -361,6 +361,15 @@ namespace RSA_ELGAMAL
             rsa_soP.IsEnabled = rsa_soQ.IsEnabled = rsa_soPhiN.IsEnabled = rsa_soN.IsEnabled = rsa_soE.IsEnabled = rsa_soD.IsEnabled = true;
         }
 
+        private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void TabControl_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
 
         private void rsa_maHoaBanRoMoi_Click(object sender, RoutedEventArgs e)
         {

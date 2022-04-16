@@ -51,3 +51,17 @@ D:\RSA_ELGAMAL\obj\Debug\RSA_ELGAMAL.pdb
 D:\RSA_ELGAMAL\bin\Debug\RSA_ELGAMAL.exe.config
 D:\RSA_ELGAMAL\bin\Debug\RSA_ELGAMAL.exe
 D:\RSA_ELGAMAL\bin\Debug\RSA_ELGAMAL.pdb
+D:\MaHoa_RSA\bin\Debug\RSA_ELGAMAL.exe.config
+D:\MaHoa_RSA\bin\Debug\RSA_ELGAMAL.exe
+D:\MaHoa_RSA\bin\Debug\RSA_ELGAMAL.pdb
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL.csprojAssemblyReference.cache
+D:\MaHoa_RSA\obj\Debug\DemoRSAElGamal.baml
+D:\MaHoa_RSA\obj\Debug\DemoRSAElGamal.g.cs
+D:\MaHoa_RSA\obj\Debug\App.g.cs
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL_MarkupCompile.cache
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL.g.resources
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL.Properties.Resources.resources
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL.csproj.GenerateResource.cache
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL.csproj.CoreCompileInputs.cache
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL.exe
+D:\MaHoa_RSA\obj\Debug\RSA_ELGAMAL.pdb
